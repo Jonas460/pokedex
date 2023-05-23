@@ -1,6 +1,6 @@
 # Pokedex em Flutter
 
-Esta é uma aplicação de Pokedex desenvolvida em Flutter, utilizando a API PokeAPI (https://pokeapi.co/) como fonte de dados. A Pokedex permite visualizar informações detalhadas sobre diferentes Pokémon, incluindo seus tipos, estatísticas, habilidades e muito mais.
+Esta é uma aplicação de Pokedex desenvolvida em Flutter, utilizando a API PokeAPI (https://pokeapi.co/) como fonte de dados, e a (https://raw.githubusercontent.com/fanzeyi/pokemon.json/master/images/), para as imagens. A Pokedex permite visualizar informações detalhadas sobre diferentes Pokémon, incluindo seus tipos, estatísticas, habilidades e muito mais.
 
 # Recursos e Funcionalidades
 1. Listagem de Pokémon: A aplicação exibe uma lista de Pokémon, permitindo navegar e explorar informações básicas sobre cada um.
